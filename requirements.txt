@@ -6,3 +6,5 @@ langchain-pinecone
 python-dotenv
 langchain-huggingface
 torch
+fastapi
+uvicorn[standard]
